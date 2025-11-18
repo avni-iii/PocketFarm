@@ -76,14 +76,14 @@ PocketFarm is a comprehensive farming management system that helps farmers and a
 
 1. **Clone the repository:**
    ```sh
-   git clone https://github.com/arjun0604/PocketFarm.git
+   git clone https://github.com/avni-iii/PocketFarm.git
    cd PocketFarm
    ```
 2. **Set up the backend:**
    ```sh
    cd Backend
    python -m venv venv
-   source venv/bin/activate  # On Windows: venv\Scripts\activate
+   On Windows: venv\Scripts\activate
    pip install -r requirements.txt
    ```
 3. **Set up the frontend:**
@@ -158,31 +158,12 @@ SECRET_KEY=your_secret_key
 OPENWEATHERMAP_API_KEY=your_weather_api_key
 ```
 
-
-## 🤝 Contributing
-
-We welcome contributions! Whether you're a farmer, developer, or enthusiast, your input can help make PocketFarm even better.
-
-1. Fork the repository
-2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
----
-
 ## 📞 Contact
 
-- Email: arjunsanthosh10604@gmail.com
-- Project Link: https://github.com/arjun0604/PocketFarm 
+- Email: avniiii2004@gmail.com
+- Project Link: [https://github.com/avni-iii/PocketFarm]
 =======
 
-## 📞 Contact
-
-- **Email**: arjunsanthosh10604@gmail.com
-- **Project Link**: https://github.com/arjun0604/PocketFarm
-
----
 
 <div align="center">
 </div> 
